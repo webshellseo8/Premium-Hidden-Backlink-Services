@@ -46,5 +46,5 @@ Enterprise-grade link vetting process (3500+ quality checks)
 White-hat compliance guarantee
 ----------
 📆 Reach us for more informations
-**
-🔥 Contact: t.me/ZenithSupport_BOT**
+
+**🔥 Contact: t.me/ZenithSupport_BOT**
