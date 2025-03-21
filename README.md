@@ -47,4 +47,4 @@ White-hat compliance guarantee
 ----------
 📆 Reach us for more informations
 
-**🔥 Contact: t.me/ZenithSupport_BOT**
+**🔥 Telegram Contact: t.me/ZenithSupport_BOT**
