@@ -36,4 +36,5 @@
 
 📆 Reach us for more information
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge)](https://t.me/ZenithSupport_BOT) [![Email Us](https://img.shields.io/badge/Email-Us-green?style=for-the-badge)](mailto:contact@yourdomain.com)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge)](https://t.me/ZenithSupport_BOT)
+Telegram : @ZenithSupport_BOT
